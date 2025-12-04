@@ -1,0 +1,15 @@
+{
+  "word": "LOLLIPOP",
+  "sr": 16000,
+  "phonemes": [
+    {"p": "l", "start": 30, "end": 90},
+    {"p": "p", "start": 90, "end": 170},
+    {"p": "l", "start": 170, "end": 220},
+    {"p": "I", "start": 220, "end": 300},
+    {"p": "p", "start": 300, "end": 360},
+    {"p": "p", "start": 360, "end": 440}
+  ],
+  "targetIndex": 3
+}
+
+

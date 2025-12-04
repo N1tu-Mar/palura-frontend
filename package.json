@@ -1,0 +1,29 @@
+{
+  "name": "palura-tts",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "npx @expo/cli@latest start",
+    "android": "npx @expo/cli@latest run:android",
+    "ios": "npx @expo/cli@latest run:ios",
+    "web": "npx @expo/cli@latest start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.2.3",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "^54.0.23",
+    "expo-av": "~14.0.7",
+    "expo-speech": "~12.0.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-native": "^0.74.5",
+    "react-native-web": "~0.19.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.1.10",
+    "babel-preset-expo": "~11.0.0",
+    "typescript": "~5.9.2"
+  }
+}
